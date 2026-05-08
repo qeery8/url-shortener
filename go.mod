@@ -7,7 +7,13 @@ require (
 	github.com/ilyakaznacheev/cleanenv v1.5.0
 )
 
-require github.com/ajg/form v1.5.1 // indirect
+require (
+	github.com/ajg/form v1.5.1 // indirect
+	github.com/go-playground/locales v0.14.1 // indirect
+	github.com/go-playground/universal-translator v0.18.1 // indirect
+	github.com/go-playground/validator v9.31.0+incompatible // indirect
+	github.com/leodido/go-urn v1.4.0 // indirect
+)
 
 require (
 	github.com/BurntSushi/toml v1.6.0 // indirect
